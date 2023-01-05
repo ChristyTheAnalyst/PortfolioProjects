@@ -6,4 +6,7 @@
 - Remove Duplicates
 - Delete unused columns
 
+# SQL Server Function Used
+- CONVERT()
+
 # Challenges
