@@ -1,3 +1,5 @@
+In this project housing data of city Nashville of USA is transformed in SQL server to make it more usable for analysis.
+
 # Tasks Involved
 - Standardizing **SaleDate** format
 - Populate property address data
