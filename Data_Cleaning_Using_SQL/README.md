@@ -1,6 +1,6 @@
 In this project, housing data of city Nashville of USA is transformed in SQL server to make it more usable for analysis.
 
-SQL File name: **NashvilleHousingDataPortfolioProject.sql**
+SQL File name: **[NashvilleHousingDataPortfolioProject.sql](https://github.com/ChristyTheAnalyst/PortfolioProjects/blob/main/Data_Cleaning_Using_SQL/NashvilleHousingDataPortfolioProject.sql)**
 
 # Tasks Involved
 - Standardizing **SaleDate** format
