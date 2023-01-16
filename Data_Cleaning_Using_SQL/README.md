@@ -12,5 +12,8 @@ SQL File name: **[NashvilleHousingDataPortfolioProject.sql](https://github.com/C
 
 # SQL Server Functions Used
 - CONVERT()
+- ISNULL()
 
 # Challenges
+- Finding relation between the columns ParcelID and PropertyAddress to populate the address
+- Using self JOIN to update the table
