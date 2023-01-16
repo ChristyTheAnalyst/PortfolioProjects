@@ -13,7 +13,15 @@ SQL File name: **[NashvilleHousingDataPortfolioProject.sql](https://github.com/C
 # SQL Server Functions Used
 - CONVERT()
 - ISNULL()
+- SUBSTRING()
+- CHARINDEX()
+- LEN()
+- PARSENAME()
+- REPLACE()
+- COUNT()
+- ROW_NUMBER()
 
 # Challenges
 - Finding relation between the columns ParcelID and PropertyAddress to populate the address
-- Using self JOIN to update the table
+- Using self **JOIN** to update the table
+- Creating **CTE**s (Common Table Expressions) and **Window functions** to remove duplicates
