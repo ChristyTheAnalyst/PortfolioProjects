@@ -24,4 +24,4 @@ SQL File name: **[NashvilleHousingDataPortfolioProject.sql](https://github.com/C
 # Challenges
 - Finding relation between the columns ParcelID and PropertyAddress to populate the address
 - Using self **JOIN** to update the table
-- Creating **CTE**s (Common Table Expressions) and **Window functions** to remove duplicates
+- Using **CTE**s (Common Table Expressions) and **Window functions** to remove duplicates
