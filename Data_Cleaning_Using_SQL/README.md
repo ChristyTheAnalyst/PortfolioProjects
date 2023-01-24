@@ -1,5 +1,7 @@
 In this project, housing data of city Nashville of USA is transformed in SQL server to make it more usable for analysis.
 
+Link to Dataset: **[Github_Link](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)**
+
 SQL File name: **[NashvilleHousingDataPortfolioProject.sql](https://github.com/ChristyTheAnalyst/PortfolioProjects/blob/main/Data_Cleaning_Using_SQL/NashvilleHousingDataPortfolioProject.sql)**
 
 # Tasks Involved
