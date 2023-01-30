@@ -1,1 +1,1 @@
-
+Search engine that crawls through the publications in School of computing, Electronics and Maths [Coventry university] and fetches the most relevant document that matches the search query given by the end user.
