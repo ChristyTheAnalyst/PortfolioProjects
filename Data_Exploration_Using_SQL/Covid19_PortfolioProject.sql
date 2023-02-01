@@ -171,7 +171,7 @@ from #PopulationVaccinatedPercent
 
 --Creating VIEW to store data for later visualizations
 
--- DROP VIEW [PopulationVaccinated]
+DROP VIEW [PopulationVaccinated]
 
 GO
 Create View PopulationVaccinated as
