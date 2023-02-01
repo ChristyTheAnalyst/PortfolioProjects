@@ -183,3 +183,6 @@ join SQL_Portfolio_Projects..CovidVaccinations vac
 	dea.date = vac.date
 where dea.continent is not null
 )
+GO
+
+select * from PopulationVaccinated
