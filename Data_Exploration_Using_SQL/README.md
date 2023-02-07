@@ -1,4 +1,4 @@
-Exploring the dataset and creating a new table required for the visualization in Tableau
+Exploring the dataset and creating a new table required for the visualization in Tableau.
 
 Link to Dataset: **https://ourworldindata.org/covid-deaths**
 
